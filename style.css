@@ -1,0 +1,34 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 10px 9px 11px grey;
+}
+.note{
+    font-size: 20px;
+    color:black;
+}
+.copy-right-footer{
+    position:fixed;
+    color:white;
+    bottom:10;
+    width: 100%;
+    background-image: linear-gradient(to right top, grey, rgba(21, 1, 1, 0.891), rgba(21, 1, 1, 0.666));
+    line-height: 3;
+    text-align: right;
+    box-shadow:4px 3px 5px rgb(21, 1, 1);
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+    height:8%;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
+h3{
+    font-family: 'Nothing You Could Do', cursive;
+}
+#span2{
+    color: red;
+}
